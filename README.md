@@ -2,7 +2,7 @@
 
 This repo is for categorizing xss reported on hackerone in 2024.
 
-# Objective
+# Goal
 
 To understand how xss happens today.
 
