@@ -50,7 +50,7 @@ check it out for the most detailed analysis and summary: https://flatt.tech/rese
 
 ## Target
 
-aggregate the 68 reports on H1
+aggregate the 70 reports on H1
 
 - from 2024/1/1 to 2024/12/31
 - with diclosed and resolved
