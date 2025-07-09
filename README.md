@@ -10,6 +10,10 @@ In other words, how developers embed XSS vuln in 2024, where more and more devel
 
 # Summary
 
+## post
+
+check it out for the most detailed analysis and summary: https://flatt.tech/research/posts/why-xss-persists-in-this-frameworks-era/
+
 ## sink ratio
 
 |Sink Type|Count|Ratio(%)|Ratio without unknown(%)|
